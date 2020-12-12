@@ -1,10 +1,14 @@
-https://tonybranch.gitbook.io/guide-of-vala/gid-vala-i-gtk+/inicializaciya-glade
+# Tools
+devdocs - GTK Reference Manual
+gtk3-demo
+gtk3-demo-application
+gtk3-widget-factory
+
+!!! https://tonybranch.gitbook.io/guide-of-vala/gid-vala-i-gtk+/inicializaciya-glade
 
 # Wiki
 GTK - https://ru.wikipedia.org/wiki/GTK
-
-# Ternimal
-devdocs - GTK Reference Manual
+Introduction - https://librebay.github.io/gtk3/matthew/02-introducing-gtk.html
 
 # Gnome website
 Bulding applications - https://developer.gnome.org/gtk3/stable/ch01s04.html
