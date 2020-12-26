@@ -10,7 +10,41 @@ gtk3-widget-factory
 Tutorials - https://www.youtube.com/c/MichaelB-GTK/playlists
 
 # Vala
-Doc - https://valadoc.org
+
+Учебник по Vala https://vala.gitbook.io
+Учебник по Vala от Gnome https://wiki.gnome.org/Projects/Vala/Tutorial/ru
+Уроки и примеры по ЯП-у Vala https://forum.ubuntu.ru/index.php?topic=238323.0
+Справочное руководство по Vala https://valadoc.org
+Загрузка Glade файла взамен "builder" https://gitlab.com/gavr123456789/vala-gtk-app-template-meson
+Руководство "Стиль кода" https://elementary.io/docs/code/reference
+Руководство разработчика от "Gnome" https://wiki.gnome.org/Projects/Vala/Documentation
+Руководство разработчика от "Elementary" https://elementary.io/docs/code/getting-started
+Репозиторий примеров использования Vala и GTK+ 3 https://github.com/gerito1/vala-gtk-examples​
+
+Vala Types Values/Strings (типы данных, строки) https://vk.com/@gnomepublic-vala-types
+Vala Types Array (массивы) https://vk.com/@gnomepublic-vala-types-2​
+
+Первое GTK приложение на Vala https://vk.com/@valalanguage-gtk-0​
+
+ООП примеры https://github.com/gavr123456789/Vala/blob/master/oop​
+
+Vala GTK+ Examples https://wiki.gnome.org/Projects/Vala/GTKSample#Synchronizing_Widgets​
+
+A parallelism library for Vala and GObject https://gitlab.com/kosmospredanie/gpseq​
+https://gitlab.com/kosmospredanie/gpseq/-/wikis/Developer's%20Guide/04.%20Seq#user-content-distinct​
+
+Базовые паттерны с примерами на Vala https://github.com/design-patterns-for-humans/vala​
+Vala - Database (VDA)
+
+Пример работы с БД https://gitlab.gnome.org/esodan/libvda/-/tree/master/examples/vala​
+Glade
+
+Linux Gtk Glade Programming https://www.youtube.com/playlist?list=PLmMgHNtOIstZEvqYJncYUx52n8_OV0uWy​
+GTK+
+
+Справочное руководство по GTK+ 3 https://developer.gnome.org/gtk3/
+
+Simple Gtk.Application example in vala https://gist.github.com/Frankity/58d26f62be67b590a486ba31efaf01ab
 
 # Wiki
 GTK - https://ru.wikipedia.org/wiki/GTK
