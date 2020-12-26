@@ -6,6 +6,12 @@ gtk3-widget-factory
 
 !!! https://tonybranch.gitbook.io/guide-of-vala/gid-vala-i-gtk+/inicializaciya-glade
 
+# C
+Tutorials - https://www.youtube.com/c/MichaelB-GTK/playlists
+
+# Vala
+Doc - https://valadoc.org
+
 # Wiki
 GTK - https://ru.wikipedia.org/wiki/GTK
 Introduction - https://librebay.github.io/gtk3/matthew/02-introducing-gtk.html
@@ -20,6 +26,10 @@ RainMark / gtk3-tutorial - https://github.com/RainMark/gtk3-tutorial/tree/master
 
 # Python
 Python GTK Tutorial - https://python-gtk-3-tutorial.readthedocs.io/en/latest/unicode.html
+API - https://athenajc.gitbooks.io/python-gtk-3-api/content/
+Examples - https://vuyisile.com/python-gui-development-with-gtk-grid/
+Doc - https://developer.gnome.org/pygtk/stable/class-gtkwindow.html
+Doc - https://python-gtk-3-tutorial.readthedocs.io/en/latest/introduction.html
 
 # Dev tools for GTK (React, Electron, JS)
 https://github.com/gtk-dev-tools
