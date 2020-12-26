@@ -2,6 +2,13 @@
 
 using Gtk;
 
+void window_move (Window window) {
+    int width, height;
+    window.move (100, 100);
+    window.get_position (out width, out height);
+    print (@"PosX: $width, PosY: $height\n");
+}
+
 int main (string[] args) {
     Gtk.init (ref args);
     var window = new Window ();
@@ -17,6 +24,8 @@ int main (string[] args) {
     window.set_position (MOUSE);
     window.get_position (out width, out height);
     print (@"PosX: $width, PosY: $height\n");
+
+    window_move(window);
 
     window.destroy.connect (Gtk.main_quit);
     window.show_all ();
